@@ -1,0 +1,122 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "voter",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "hasVoted",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "votedTime",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chats",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "users",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "last_message_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "voter",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "voterbarangay",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "hasVoted",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "lname",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fname",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "verified",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "lastAction",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "voter",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "voterbarangay",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "votedTime",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "voter",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "affiliation",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "generatedID",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chat_messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "chat",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

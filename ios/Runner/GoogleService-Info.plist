@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>398385564600-4453bujsaivv7l0d91l5mnerh82uhfui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.398385564600-4453bujsaivv7l0d91l5mnerh82uhfui</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>398385564600-1qk57e117m5358jt29ketv4eba01erbn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnp11RRoWtqaU0q2uQhWghorMEoXao9DE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>398385564600</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hanscourt.watchr</string>
+	<key>PROJECT_ID</key>
+	<string>watchr-7df69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>watchr-7df69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:398385564600:ios:caec104c470f549dab5d4d</string>
+</dict>
+</plist>

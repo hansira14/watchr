@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "398385564600",
+    "project_id": "watchr-7df69",
+    "storage_bucket": "watchr-7df69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398385564600:android:d37acc27e2efbb0bab5d4d",
+        "android_client_info": {
+          "package_name": "com.hanscourt.watchr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398385564600-1qk57e117m5358jt29ketv4eba01erbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanscourt.watchr",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "398385564600-ouvc5de0hpf87hpia235s6gq35ov4ol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3dS5WA5NAEtrWP4lThk4GcQawXlvl-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398385564600-9ovbi6l1gpj44envbohnu5oiajo6v25o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398385564600-4453bujsaivv7l0d91l5mnerh82uhfui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanscourt.watchr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
