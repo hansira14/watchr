@@ -4,7 +4,7 @@
 <div align="center">
   <img width="1000" src="./watchr.png"/>
 </div>
-<h1 align="center">Anilist</h1>
+<h1 align="center">Watchr</h1>
 <p align="center">Watchr is a multi-platform voter management and precinct attendance analysis system, providing macro/micro-level data insights through Flutter/Firebase tech stack, enabling targeted campaigning and reducing electoral costs.</p>
 <div align="center">
 </div>
