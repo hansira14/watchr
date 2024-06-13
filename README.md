@@ -38,5 +38,5 @@
 
 # Team
 
-## Ira Hans Dedicatoria - Lead Dev, Project Manager
-## Courtney Viola - Front-end Dev
+- Ira Hans Dedicatoria - Lead Dev, Project Manager
+- Courtney Viola - Front-end Dev
