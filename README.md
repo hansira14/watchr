@@ -1,6 +1,5 @@
 # watchr
- 
-# final-anilist
+
 
 <div align="center">
   <img width="600" src="./watchr.png"/>
